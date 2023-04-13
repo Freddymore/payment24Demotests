@@ -1,0 +1,12 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+- task: katalonTask@1
+  displayName: 'Execute Katalon Studio project'
+  inputs:
+    version: '8.6.0'
+    executeArgs: '-browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/New Test Suite Collection" -apiKey=6b4baa87-03e0-45e8-99b2-028768ef84e1'
