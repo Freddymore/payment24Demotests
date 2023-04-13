@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_IMPL70253_fa fa-edit</name>
+   <tag></tag>
+   <elementGuidId>a33f0e99-01c0-4f34-8c9d-41f515c559c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cphBody_gridThirdParty_btnFleetMaintain_12']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c36815da-c533-4880-b2c4-b31b8d156ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit </value>
+      <webElementGuid>0563a4b1-be89-4900-9a5f-d58074add550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>35aba070-04de-43fd-8d69-f5391f14a9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cphBody_gridThirdParty_btnFleetMaintain_12&quot;)/i[@class=&quot;fa fa-edit&quot;]</value>
+      <webElementGuid>b8d28b6d-b19f-42f8-afea-b54c2eae03b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='cphBody_gridThirdParty_btnFleetMaintain_12']/i</value>
+      <webElementGuid>b4e9c71f-873d-4bd2-90e9-fdad7bfb60f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a/i</value>
+      <webElementGuid>185bc534-9862-4d7e-bb71-6b0b6a76235c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

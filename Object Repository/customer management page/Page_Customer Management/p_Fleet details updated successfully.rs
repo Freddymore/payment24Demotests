@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Fleet details updated successfully</name>
+   <tag></tag>
+   <elementGuidId>b4270c29-5123-4271-9d63-eafdabb1808f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.alert-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='floating-top-right']/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0b778b39-3b1a-4d34-8a1b-0ecc358dfb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-message</value>
+      <webElementGuid>ec071246-1cf7-49d4-bc38-1a29785632ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fleet details updated successfully</value>
+      <webElementGuid>29d66d1e-722c-429a-aafc-95a11f6dd9f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;floating-top-right&quot;)/div[@class=&quot;alert-wrap animated jellyIn in&quot;]/div[@class=&quot;alert alert-info&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body&quot;]/p[@class=&quot;alert-message&quot;]</value>
+      <webElementGuid>1236b36f-e65c-4567-bfbc-14d6123234c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='floating-top-right']/div/div/div/div/p</value>
+      <webElementGuid>251534d9-5eee-4c4e-b49f-dc031c6d3851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/following::p[1]</value>
+      <webElementGuid>5e192dc8-9b13-4b5a-a4ab-f79e02d2b423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pdf'])[1]/following::p[1]</value>
+      <webElementGuid>0e879e1b-8d1b-4903-9f07-af35b19bff63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you like cookies?'])[1]/preceding::p[1]</value>
+      <webElementGuid>434e846e-bdc7-4b69-b52b-7fe0220b37e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/p</value>
+      <webElementGuid>725712b2-0530-45b8-a08d-770de5a16404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Fleet details updated successfully' or . = 'Fleet details updated successfully')]</value>
+      <webElementGuid>7a82dbad-8e31-4a05-b664-a62d59cbcf7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

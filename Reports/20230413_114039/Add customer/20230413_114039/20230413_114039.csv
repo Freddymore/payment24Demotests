@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Add customer,Chrome 111.0.0.0,,,2023-04-13 11:40:51,2023-04-13 11:42:42,1m - 50.561s,FAILED
+,,,,,,,
+Test Cases/Add customer,Chrome 111.0.0.0,,,2023-04-13 11:42:14,2023-04-13 11:42:42,28.438s,FAILED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-04-13 11:42:14,2023-04-13 11:42:19,5.872s,PASSED
+"navigateToUrl(""https://admin-stage.payment24.co/Login.aspx"")",Chrome 111.0.0.0,,,2023-04-13 11:42:19,2023-04-13 11:42:23,3.789s,PASSED
+"setText(findTestObject(""Object Repository/customer management page/Page_Login/input_Username_txtUserName""), ""freddy.imperial.sho"")",Chrome 111.0.0.0,,,2023-04-13 11:42:23,2023-04-13 11:42:24,0.924s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/customer management page/Page_Login/input_Password_txtPassword""), ""8QOgL8Q8VdKrCxMTiMq6qyqu2UTnMzZP"")",Chrome 111.0.0.0,,,2023-04-13 11:42:24,2023-04-13 11:42:25,1.271s,PASSED
+"click(findTestObject(""Object Repository/customer management page/Page_Login/i_Password_test""))",Chrome 111.0.0.0,,,2023-04-13 11:42:25,2023-04-13 11:42:26,0.418s,PASSED
+"click(findTestObject(""Object Repository/customer management page/Page_Login/button_Login""))",Chrome 111.0.0.0,,,2023-04-13 11:42:26,2023-04-13 11:42:40,13.969s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/customer management page/Page_Payment24/a_Customers""), 0)",Chrome 111.0.0.0,,,2023-04-13 11:42:40,2023-04-13 11:42:41,1.192s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/customer management page/Page_Payment24/a_Customers_1""), 0)",Chrome 111.0.0.0,,,2023-04-13 11:42:41,2023-04-13 11:42:41,0.361s,PASSED
+"click(findTestObject(""Object Repository/customer management page/Page_Payment24/a_Customers_1""))",Chrome 111.0.0.0,,,2023-04-13 11:42:41,2023-04-13 11:42:42,0.604s,FAILED
